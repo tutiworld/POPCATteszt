@@ -125,7 +125,7 @@ input {
         overflow-y: hidden;
     }
     body{
-      overflow:hidden;
+      overflow:show;
     }
     .tabs{
       font-size: 35px;
